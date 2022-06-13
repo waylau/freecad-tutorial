@@ -14,6 +14,7 @@
 ## Samples 示例
 
 * keyboard-pc: 键盘主机
+* keyboard-pc-v2: 键盘主机v2
 
 ![](images/keyboard-pc.jpg)
 
