@@ -26,17 +26,17 @@
 
 选择下面入口之一：
 
-* <https://github.com/waylau/ehcache-tutorial> 的 [README.md](https://github.com/waylau/ehcache-tutorial/blob/master/README.md)
-* <https://gitee.com/waylau/ehcache-tutorial> 的 [README.md](https://gitee.com/waylau/ehcache-tutorial/blob/master/README.md)
+* <https://github.com/waylau/freecad-tutorial> 的 [README.md](https://github.com/waylau/freecad-tutorial/blob/master/README.md)
+* <https://gitee.com/waylau/freecad-tutorial> 的 [README.md](https://gitee.com/waylau/freecad-tutorial/blob/master/README.md)
 
 
 ## Code 源码
 
-书中所有示例源码，移步至<https://github.com/waylau/ehcache-tutorial>的 `samples` 目录下.
+书中所有示例源码，移步至<https://github.com/waylau/freecad-tutorial>的 `samples` 目录下.
 
 ## Issue 意见、建议
 
-如有勘误、意见或建议欢迎拍砖 <https://github.com/waylau/ehcache-tutorial/issues>
+如有勘误、意见或建议欢迎拍砖 <https://github.com/waylau/freecad-tutorial/issues>
 
 ## Contact 联系作者
 
