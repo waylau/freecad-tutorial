@@ -15,6 +15,7 @@
 
 * keyboard-pc: 键盘主机
 * keyboard-pc-v2: 键盘主机v2
+* mini-pc：mini主机（motianku M8）
 
 ![](images/keyboard-pc.jpg)
 
