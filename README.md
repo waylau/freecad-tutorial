@@ -20,8 +20,12 @@
 ![](images/keyboard-pc.jpg)
 
 
+## Summary 目录
 
 
+* [键盘？主机？键盘主机！](https://waylau.com/diy-keyborad-pc/)
+* [键盘？主机？全功能键盘主机！](https://www.bilibili.com/video/BV1PW4y1r7d5/)（视频）
+* [DIY N3450迷你小主机，散热优秀！](https://www.bilibili.com/video/BV1EY4y137ST/)（视频）
 
 
 ## Get start 如何开始阅读
